@@ -1,5 +1,5 @@
 # Schitt's Creek Script Analysis (NLP)
-<img src="https://github.com/acheamponge/Schitts_Creek/blob/master/Images/7.jpg" align="middle" height="600" width="600">
+<img src="https://github.com/acheamponge/Schitts_Creek/blob/master/Images/7.jpg" align="middle">
 
 
 A Natural Language Processing project for focused on The Schitt's Creek television show.
