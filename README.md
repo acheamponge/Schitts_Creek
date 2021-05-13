@@ -2,7 +2,7 @@
 <img src="https://github.com/acheamponge/Schitts_Creek/blob/master/Images/7.jpg" align="middle">
 
 
-A Natural Language Processing project for focused on The Schitt's Creek television show.
+A Natural Language Processing project focused on The Schitt's Creek television show.
 
 In this project, I decided to utilize the NLP API on the Google Cloud Platform instead of using open source modules.
 
